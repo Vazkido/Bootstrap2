@@ -3,9 +3,14 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* Header Section */
+header {
+  position: sticky;
+}
+
 /* Hero Section */
 .hero {
-  background-image: url('hero-image.jpg');
+  background-image: url("hero-image.jpg");
   background-size: cover;
   background-position: center;
   color: white;
